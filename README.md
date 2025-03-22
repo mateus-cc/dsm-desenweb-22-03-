@@ -1,9 +1,9 @@
 # dsm-desenweb-22-03
 
-2 - Exercício de Aula - Individual
-Objetivos da atividade
-• Manusear arquivos compactados  
-• Busca e resolução de problemas no código  
+2 - Exercício de Aula - Individual  
+Objetivos da atividade  
+• Manusear arquivos compactados    
+• Busca e resolução de problemas no código    
 • Organização  
 • Evidências de resolução  
 Instruções iniciais:  
